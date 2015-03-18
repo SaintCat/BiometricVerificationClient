@@ -1,0 +1,12 @@
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\ApplicationIcon.png
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\Background.png
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\BiometricVerificationClient.dll
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\BiometricVerificationClient.pdb
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\AppManifest.xaml
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\Bin\Debug\BiometricVerificationClient.xap
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\App.g.i.cs
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\MainPage.g.i.cs
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\BiometricVerificationClient.g.resources
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\BiometricVerificationClient.dll
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\BiometricVerificationClient.pdb
+c:\users\chernyshov\documents\visual studio 2010\Projects\BiometricVerificationClient\BiometricVerificationClient\obj\Debug\XapCacheFile.xml
